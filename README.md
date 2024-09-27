@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">A devoted fullstack developer from France</h3>
 
-- 🔭 I’m currently working on **Nouds - an application merging sound design and web development**
+- 🎓 I’m currently student at **Ada Tech School - looking for an apprenticeship for February 2025**
+
+- 🔭 I'm currently working on **Nouds - an application merging sound design and web development**
 
 - 🌱 I’m currently learning **Express.js**
 
