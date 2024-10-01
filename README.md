@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently student at **Ada Tech School - looking for an apprenticeship for February 2025**
 
-- 🔭 I'm currently working on **Nouds - an application merging sound design and web development**
+- 🔭 I'm currently working on **Nouds - a sound design application in a web interface**
 
 - 🌱 I’m currently learning **Express.js**
 
