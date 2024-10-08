@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **Nouds - a sound design application in a web interface**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Express.js and Three.js**
 
 - 📫 How to reach me **williampetitpierre@protonmail.com**
 
