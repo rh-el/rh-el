@@ -15,7 +15,7 @@ I've been doing sound design as a freelancer during the last four years, mainly 
 NextJS, React, Typescript, Tailwind, SASS, Javascript
 
 ### Backend
-NodeJS, ExpressJS
+NodeJS, ExpressJS, Prisma
 
 ### Database
 Supabase, MySQL
