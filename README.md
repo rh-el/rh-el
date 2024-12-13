@@ -8,7 +8,7 @@ I've been doing sound design as a freelancer during the last four years, mainly 
 
 ## 🛠 Skills
 ### Frontend
-NextJS, React, Typescript, Tailwind, SASS, Javascript, HTML, CSS...
+NextJS, React, Typescript, Tailwind, SASS, Javascript
 
 ### Backend
 NodeJS, ExpressJS
