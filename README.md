@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer from France looking for an internship. <br>
+I'm a full stack developer from France looking for an apprenticeship. <br>
 I've been doing sound design as a freelancer during the last four years, mainly for interactive art installations mixing software development and sound creation.
 
 
