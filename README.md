@@ -19,6 +19,5 @@ NodeJS, ExpressJS, Prisma
 
 ### Database
 Supabase, MySQL
-#### ⌨️ I'm currently working on Nouds - a web application mixing sound synthesis and web development
-
-#### 🎓 I'm currently learning ThreeJS
+#### ⌨️ I'm currently working on Klaws - a spatial composing tool on the web
+#### 🎓 I'm currently learning Kotlin Multiplatform
