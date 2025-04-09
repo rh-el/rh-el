@@ -15,9 +15,8 @@ I've been doing sound design as a freelancer during the last four years, mainly 
 NextJS, React, Typescript, Tailwind, SASS, Javascript
 
 ### Backend
-NodeJS, ExpressJS, Prisma
+FastAPI, Python, NodeJS, ExpressJS, Prisma
 
 ### Database
-Supabase, MySQL
+Supabase, MySQL, PostgreSQL
 #### ⌨️ I'm currently working on Klaws - a spatial composing tool on the web
-#### 🎓 I'm currently learning Kotlin Multiplatform
