@@ -1,7 +1,7 @@
 
 ## fullstack developer x sound designer
 
-## 🛠 fav tools:
+## fav tools
 ### frontend
 react (with next or remix), typescript, tailwind, sass
 
@@ -11,7 +11,7 @@ fastapi, python, nodejs, expressjs
 ### db
 mysql, postgresql
 
-### wip:
+## wip
 ##### klaws
 ###### spatial composing tool on the web / ar pwa on smartphones
 
