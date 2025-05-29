@@ -1,22 +1,22 @@
 
-# Hi, I'm William! ✌️
+## fullstack developer x sound designer
 
+## 🛠 fav tools:
+### frontend
+react (with next or remix), typescript, tailwind, sass
 
-## 🚀 About Me
-I'm a full stack developer from France looking for an apprenticeship. <br>
-I've been doing sound design as a freelancer during the last four years, mainly for interactive art installations mixing software development and sound creation.
+### backend
+fastapi, python, nodejs, expressjs
 
+### db
+mysql, postgresql
 
-## 📫 How to reach me <br><br> [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-petitpierre/)
+### wip:
+##### klaws
+###### spatial composing tool on the web / ar pwa on smartphones
 
+##### loos-kees
+###### music download helper connecting spotify / soundcloud / bandcamp playlists & likes to the soulseek network
 
-## 🛠 Skills
-### Frontend
-NextJS, React, Typescript, Tailwind, SASS, Javascript
-
-### Backend
-FastAPI, Python, NodeJS, ExpressJS, Prisma
-
-### Database
-Supabase, MySQL, PostgreSQL
-#### ⌨️ I'm currently working on Klaws - a spatial composing tool on the web
+#### if-blancas
+##### e-commerce platform
