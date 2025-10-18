@@ -13,7 +13,7 @@ mysql, postgresql
 
 ## wip
 ##### klaws
-###### spatial composing tool on the web / ar pwa on smartphones
+###### spatial composing tool on the web / ar app on smartphones
 
 ##### loos-kees
 ###### music download helper connecting spotify / soundcloud / bandcamp playlists & likes to the soulseek network
