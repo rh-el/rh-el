@@ -1,15 +1,15 @@
 
-## fullstack developer x sound designer
+## software developer
 
-## fav tools
+## favorite tools
 ### frontend
-react (with next or remix), typescript, tailwind, sass
+react, typescript, tailwind, sass
 
 ### backend
 fastapi, python, nodejs, expressjs
 
 ### db
-mysql, postgresql
+postgresql, postgis, mysql
 
 ## wip
 ##### klaws
